@@ -1,4 +1,8 @@
 # Birhan-Energies
+
+![image](https://github.com/Endework/Birhan-Energies-/assets/83136075/9973925a-1a95-4c69-9353-11f8cb733c52)
+
+
 ## Brent Oil Price Analysis
 
 This repository contains the code and analysis for a project investigating the impact of significant events on Brent oil prices.
